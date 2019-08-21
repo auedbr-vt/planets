@@ -1,1 +1,2 @@
 Mars is a planet
+Mars is at least twenty miles away
