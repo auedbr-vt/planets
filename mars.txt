@@ -1,2 +1,3 @@
 Mars is a planet
 Mars is at least twenty miles away
+Mars is likely larger than a tennis ball
